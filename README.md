@@ -3,6 +3,7 @@ Currently, I'm working on way too many projects at the same time. 😅
 
 ### Nice Projects
 - [`nginx-rtmp-docker`](https://github.com/Mqxx/nginx-rtmp-docker)
+- [`Serial-IO/serial`](https://github.com/Serial-IO/serial)
 - [`outlook_reminder_always_on_top`](https://github.com/Mqxx/outlook_reminder_always_on_top)
 
 ### Socials
